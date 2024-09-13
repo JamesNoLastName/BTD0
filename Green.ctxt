@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Green
+comment1.params=
+comment1.target=Green()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Red\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ Moves\ bloon\ to\ the\ left\ or\ the\ right,\ depending\ on\ the\ sign\ of\ distance\r\n
+comment4.params=
+comment4.target=void\ movementchange()
+comment4.text=\r\n\ Changes\ direction\ of\ Bloon\ movement\ after\ reaching\ a\ side\ of\ the\ map,\ and\ shifts\ it\ down\ by\ one\ level\r\n
+comment5.params=
+comment5.target=void\ contact()
+comment5.text=\r\n\ Removes\ both\ the\ dart\ and\ the\ bloon\ upon\ contact.\ If\ it\ is\ a\ layer\ before\ red,\ register\ the\ hitcount\ and\ remove\ a\ layer.\ Also\ reduce\ speed\ by\ 1\ per\ lost\ layer.\r\n
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DartMonkey
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DartMonkey\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=DartMonkey()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ The\ DartMonkey\ will\ be\ able\ to\ move\ side\ to\ side,\ reload\ darts,\ and\ gradually\ increase\ its\ reload\ speed.\ it\ will\ also\ be\ able\ to\ detect\ if\ it\ touches\ a\ Bloon.\ If\ it\ does,\ its\ bloodline\ goes\ extinct.\r\n
+comment3.params=
+comment3.target=void\ Movement()
+comment3.text=\r\n\ The\ DartMonkey\ moves\ left\ or\ right\r\n
+comment4.params=
+comment4.target=void\ fire()
+comment4.text=\r\n\ The\ DartMonkey\ reloads\ a\ dart\ in\ the\ position\ relative\ to\ its\ right\ hand\ after\ a\ criteria\ for\ reloading\ is\ reached.\r\n
+comment5.params=
+comment5.target=void\ GameOver()
+comment5.text=\r\n\ The\ DartMonkey\ loses\ the\ game\ if\ it\ touches\ a\ Bloon.\r\n
+comment6.params=
+comment6.target=void\ InternalClock()
+comment6.text=\r\n\ The\ clock\ that\ determines\ when\ reload\ speed\ automatically\ increases.\r\n
+comment7.params=
+comment7.target=void\ MoreReload()
+comment7.text=\r\n\ Increases\ the\ reload\ speed\ whenever\ the\ clock\ reaches\ a\ certain\ threshold.\r\n
+numComments=8
